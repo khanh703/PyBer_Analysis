@@ -1,10 +1,10 @@
 # PyBer Analysis 
 
 ## Overview 
-Explain the purpose of the new analysis.
+PyBer's CEO would like to know how PyBer's ride-sharing service is performing across metrics Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver by city types (Urban, Suburban, and Rural).
 
 ## Results 
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types. There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the 
+**Urban** city type substantially exceeds both **Suburban** and **Rural** cities in Total Rides, Total Drivers, and Total Fares. **Rural** city type exceeds **Urban** and **Suburban** city types with Average Fare per Ride and Average Fare per Driver. 
 
 ![Total Rides](analysis/Total_Rides.png)
 ![Total Drivers](analysis/Total_Drivers.png)
@@ -16,4 +16,7 @@ Using images from the summary DataFrame and multiple-line chart, describe the di
 ![PyBer Total Fare by City Type](https://raw.githubusercontent.com/khanh703/PyBer_Analysis/main/analysis/Total_Fare_by_City_Type.png)
 
 ## Summary 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types. There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+Recommendations to address disparities amon the different city types.
+- Let Urban and Suburban drivers aware of opportunities for higher fares per ride and higher fares per driver are in the Rural cities
+- Urban drivers expanding to Suburban cities 
+- Drivers should go to where demand is the highest, in Rural cities
